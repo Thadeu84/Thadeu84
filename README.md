@@ -74,10 +74,11 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Thadeu84&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thadeu84&layout=compact&langs_count=7&theme=react" />
 <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
-</div>
 
 ![Snake animation](https://github.com/Thadeu84/Thadeu84/blob/output/github-contribution-grid-snake.svg)
-
+    
+</div>
+    
 ## Contact
  
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thadeu-guimar%C3%A3es/)
