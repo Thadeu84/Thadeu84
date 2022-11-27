@@ -10,7 +10,7 @@
 
 - 💬 Ask me about open source tools **Devops, Cloud, AWS, Linux **
 
-- ⚡ Fun fact **Animes & Mangás & HQs 🤖👽🥷🏼🦸🏻‍♀️**
+- ⚡ Fun fact  **Animes & Mangás & HQs 🤖👽🥷🏼🦸🏻‍♀️**
 
 <!--
 
