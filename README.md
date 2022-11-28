@@ -47,7 +47,6 @@
   <img aling="center" src="https://img.shields.io/badge/nano-4A90E2?style=for-the-badge&logo=nano&logoColor=white" />
   <img aling="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img aling="center" src"https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img aling="center" src"https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img aling="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white") />
   <img aling="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img aling="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
