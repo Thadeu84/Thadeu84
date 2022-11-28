@@ -46,15 +46,21 @@
   <img aling="center" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
   <img aling="center" src="https://img.shields.io/badge/nano-4A90E2?style=for-the-badge&logo=nano&logoColor=white" />
   <img aling="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img aling="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white") />
   <img aling="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img aling="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
   <img aling="center" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
   <img aling="center" src="https://img.shields.io/badge/-KANBAN-05122A?style=flat&logo=KANBAN") />
   <img aling="center" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
   <img aling="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-" />
+  <img aling="center" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img aling="center" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
   <img aling="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img aling="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img aling="center" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white") />
+  <img aling="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white") />
+  <img aling="center" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=whit") /> 
+  <img aling="center" src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white") /> 
   <img aling="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whit" />
   <img aling="center" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />
   <img aling="center" src="https://img.shields.io/badge/-DOCKER-05122A?style=flat&logo=DOCKER") />
@@ -63,6 +69,8 @@
   <img aling="center" src="https://img.shields.io/badge/-ANSIBLE-05122A?style=flat&logo=ANSIBLE") />
   <img aling="center" src="https://img.shields.io/badge/-PROMETHEUS-05122A?style=flat&logo=PROMETHEUS") />
   <img aling="center" src="https://img.shields.io/badge/-GRAFANA-05122A?style=flat&logo=GRAFANA") />
+  <img aling="center" src="https://img.shields.io/badge/-GRAFANA-05122A?style=flat&logo=GRAFANA") />
+  <img aling="center" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white") />
   
 </div>
  
