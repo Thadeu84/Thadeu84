@@ -4,9 +4,7 @@
 
 
 - 🔥 Devops Jr passionate about open source technologies and tools.
-- 🔭 I'm currently studying DevOps at Ampli & Linuxtips.
-- https://www.ampli.com.br/
-- https://www.linuxtips.io
+- 🔭 I'm currently studying DevOps at Ampli & Linuxtips.https://www.ampli.com.br/ https://www.linuxtips.io
 
 - 💬 Ask me about open source tools **Devops, Cloud, AWS, Linux **
 
