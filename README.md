@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Thadeu84&color=blue" alt="Profile views" /> </p>
 
 
-- 🔥 Devops Jr passionate about open source technologies and tools.
+- 🔥 Devops Jr apaixonado por tecnologias e ferramentas open source.
 - 🔭 I'm currently studying DevOps at Ampli & Linuxtips.https://www.ampli.com.br/ https://www.linuxtips.io
 
 - 💬 Ask me about open source tools **Devops, Cloud, AWS, Linux **
