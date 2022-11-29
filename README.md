@@ -68,7 +68,6 @@
   <img aling="center" src="https://img.shields.io/badge/-ANSIBLE-05122A?style=flat&logo=ANSIBLE") />
   <img aling="center" src="https://img.shields.io/badge/-PROMETHEUS-05122A?style=flat&logo=PROMETHEUS") />
   <img aling="center" src="https://img.shields.io/badge/-GRAFANA-05122A?style=flat&logo=GRAFANA") />
-  <img aling="center" src="https://img.shields.io/badge/-GRAFANA-05122A?style=flat&logo=GRAFANA") />
   <img aling="center" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white") />
   
 </div>
