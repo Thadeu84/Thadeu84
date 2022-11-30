@@ -21,8 +21,8 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="Thadeu84's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thadeu84&layout=compact&theme=vision-friendly-dark" alt="Thadeu's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Thadeu84&show_icons=true&theme=vision-friendly-dark" alt="Thadeu84's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thadeu84&layout=compact&theme=vision-friendly-dark" alt="Thadeu84's most languages"/>
 </p>
 -->
 
